@@ -23,7 +23,7 @@ The variables are :
 - mass: binary variable equal to 1 if bans on mass gatherings were implemented and 0 otherwise;
 - elect: binary variable equal to 1 if some elections were postponed and 0 otherwise;
 - sport: binary variable equal to 1 if bans on sporting and large events were implemented and 0 otherwise;
-- rest: binary variable equal to1  if restaurants were closed and 0 otherwise;
+- rest: binary variable equal to 1 if restaurants were closed and 0 otherwise;
 - testing: binary variable equal to 1 if there was a public testing policy and 0 otherwise;
 - surveillance: binary variable equal to 1 if mobile app or bracelet surveillance was implemented and 0 otherwise;
 - masks binary variable equal to 1 if the obligationsto wear masks in public spaces was implemented and 0 otherwise;
