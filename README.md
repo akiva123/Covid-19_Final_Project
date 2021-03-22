@@ -20,6 +20,33 @@ and an immuno assay.
 Vaccines have been developed to combat SARS-CoV-2. The Pfizer/BioNTech vaccine (BNT162b2) and The ModernaTX, Inc vaccine (mRNA-1273) are mRNA vaccines. mRNA vaccines deliver lab designed viral mRNA made by coding both the 5’-untranslated region (UTR) and the 3’-UTR into cells where it is translated into the encoded antigen to which an immune recognition by white blood cells, immunogenicity, results. The AstraZeneca in collaboration with the University of Oxford vaccine (AZD1222) is an adenovirus vaccine. Adenovirus vaccines are first gene sub-cloned into an intermediary vector, transfered to an adenovirus recombinant genome vector, transfected into packaging cells, amplified into a culture stock, and then titrated to determine the concentration of active adenoviruses in the stock. The adenoviruse is then delivered to cells where immunogenicity results. The following is a diagram of Virus vector DNA and mRNA vaccine immune response production.
 Vaccines have been developed to combat SARS-CoV-2. The Pfizer/BioNTech vaccine (BNT162b2) and The ModernaTX, Inc vaccine (mRNA-1273) are mRNA vaccines. mRNA vaccines deliver lab designed viral mRNA made by coding both the 5’-untranslated region (UTR) and the 3’-UTR into cells where it is translated into the encoded antigen to which an immune recognition by white blood cells, immunogenicity, results. The AstraZeneca in collaboration with the University of Oxford vaccine (AZD1222) is an adenovirus vaccine. Adenovirus vaccines are first gene sub-cloned into an intermediary vector, transfered to an adenovirus recombinant genome vector, transfected into packaging cells, amplified into a culture stock, and then titrated to determine the concentration of active adenoviruses in the stock. The adenoviruse is then delivered to cells where immunogenicity results. The following is a diagram of Virus vector DNA and mRNA vaccine immune response production.
 ![image](https://user-images.githubusercontent.com/56414953/112049237-badc9080-8b25-11eb-9a75-617ebe526286.png)
+# Covid-19 Totals
+22% of the global population has been tested for the virus. 6.9% of the tested global population has been diagnosed with the virus. 80.6% of global population has recovered and 2.2% have died from the virus. 5.1% of the global population has been vaccinated.  The United States has the most cases of the virus and it is likely because it has tested more than other countries.
+![image](https://user-images.githubusercontent.com/56414953/112051811-c2516900-8b28-11eb-888c-feda788c0de7.png)
+![image](https://user-images.githubusercontent.com/56414953/112051843-caa9a400-8b28-11eb-8950-cb8b9805702a.png)
+![image](https://user-images.githubusercontent.com/56414953/112051957-e8770900-8b28-11eb-8be7-3a388b1b81eb.png)
+![image](https://user-images.githubusercontent.com/56414953/112051995-f2007100-8b28-11eb-9097-8a8a05bf1d0f.png)
+![image](https://user-images.githubusercontent.com/56414953/112052024-fa58ac00-8b28-11eb-8825-de14b496a142.png)
+![image](https://user-images.githubusercontent.com/56414953/112052042-00e72380-8b29-11eb-8f8d-1ce4cfe08ee0.png)
+![image](https://user-images.githubusercontent.com/56414953/112052052-06dd0480-8b29-11eb-94f9-a87d0106deb1.png)
+![image](https://user-images.githubusercontent.com/56414953/112052076-0d6b7c00-8b29-11eb-9afc-852e372e4f1c.png)
+![image](https://user-images.githubusercontent.com/56414953/112052122-2116e280-8b29-11eb-9e72-bc802007c56d.png)
+![image](https://user-images.githubusercontent.com/56414953/112052147-2b38e100-8b29-11eb-81ef-8c5b26d1127c.png)
+![image](https://user-images.githubusercontent.com/56414953/112052203-3c81ed80-8b29-11eb-885b-55490471f7e9.png)
+![image](https://user-images.githubusercontent.com/56414953/112052235-460b5580-8b29-11eb-90f7-ee1149d48f74.png)
+![image](https://user-images.githubusercontent.com/56414953/112052264-4d326380-8b29-11eb-8723-d583f48fafb8.png)
+![image](https://user-images.githubusercontent.com/56414953/112052288-53284480-8b29-11eb-808a-8f795b998abf.png)
+![image](https://user-images.githubusercontent.com/56414953/112052308-59b6bc00-8b29-11eb-89eb-a45fcbe81394.png)
+![image](https://user-images.githubusercontent.com/56414953/112052331-60ddca00-8b29-11eb-84c2-9e5f01fcd0f6.png)
+![image](https://user-images.githubusercontent.com/56414953/112052346-66d3ab00-8b29-11eb-91c7-17f00715b260.png)
+![image](https://user-images.githubusercontent.com/56414953/112052375-6cc98c00-8b29-11eb-9b09-8e5c285f5ad3.png)
+![image](https://user-images.githubusercontent.com/56414953/112052386-73580380-8b29-11eb-9849-0d4a4ab28c3b.png)
+![image](https://user-images.githubusercontent.com/56414953/112052406-794de480-8b29-11eb-894c-900bd183ce19.png)
+![image](https://user-images.githubusercontent.com/56414953/112052429-81a61f80-8b29-11eb-8c7e-72e2375bef96.png)
+![image](https://user-images.githubusercontent.com/56414953/112052502-94b8ef80-8b29-11eb-8d16-e651382ac4d5.png)
+![image](https://user-images.githubusercontent.com/56414953/112052527-9da9c100-8b29-11eb-8781-f4ae753cb1b0.png)
+![image](https://user-images.githubusercontent.com/56414953/112052560-a4383880-8b29-11eb-8742-66338eeaf82a.png)
+
 # Government Regulation Features
 The Governments' responses to COVID19 are the measures implemented by governments worldwide in response to the Coronavirus pandemic. There are two types of measures: public health measures and economic measures.
 The variables are :
@@ -47,5 +74,3 @@ The variables are :
 - rate: binary variable equal to 1 if the Central Bank lowered the interest rates and 0 otherwise;
 # Conclusion
 The time-series models suggest that vaccinations will trend upward by 245% and cases of the virus will trend downward by 54%. The logit model suggests that the government regulations of school closures, travel restrictions, state of emergency declarations, wage support, tax credits, and interest rate lowering decreased the log odds of the presence of virus cases. Government regulations such as disallowing public gatherings and mandating wearing masks did not decrease the log odds of the presence of virus cases. The virus travels in sneezed or coughed droplets of mucus or saliva, is airborne for a few moments, and then lands on a surface. Instead of wearing masks and preventing gatherings, carrying a handkerchiefs in which people could sneeze or cough and sanitizing areas were people gather would be sufficient in preventing the spread of SARS-CoV-2.
-![image](https://user-images.githubusercontent.com/56414953/112051348-36d7d800-8b28-11eb-8165-72c0cded82f6.png)
-
