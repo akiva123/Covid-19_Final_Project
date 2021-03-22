@@ -47,3 +47,5 @@ The variables are :
 - rate: binary variable equal to 1 if the Central Bank lowered the interest rates and 0 otherwise;
 # Conclusion
 The time-series models suggest that vaccinations will trend upward by 245% and cases of the virus will trend downward by 54%. The logit model suggests that the government regulations of school closures, travel restrictions, state of emergency declarations, wage support, tax credits, and interest rate lowering decreased the log odds of the presence of virus cases. Government regulations such as disallowing public gatherings and mandating wearing masks did not decrease the log odds of the presence of virus cases. The virus travels in sneezed or coughed droplets of mucus or saliva, is airborne for a few moments, and then lands on a surface. Instead of wearing masks and preventing gatherings, carrying a handkerchiefs in which people could sneeze or cough and sanitizing areas were people gather would be sufficient in preventing the spread of SARS-CoV-2.
+![image](https://user-images.githubusercontent.com/56414953/112051348-36d7d800-8b28-11eb-8165-72c0cded82f6.png)
+
