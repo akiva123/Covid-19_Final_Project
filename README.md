@@ -14,7 +14,7 @@ Vaccines have been developed to combat SARS-CoV-2. The Pfizer/BioNTech vaccine (
 The Governments' responses to COVID19 are the measures implemented by governments worldwide in response to the Coronavirus pandemic. It particularly separates the information in two categories: economic measures and public health measures.
 The variables are :
 
-cases: binary variable equal to 1 if there were cases of SARS-CoV-2 and 0 otherwise;;
+- cases: binary variable equal to 1 if there were cases of SARS-CoV-2 and 0 otherwise;
 school: binary variable equal to 1 if schools were closed and 0 otherwise;
 domestic: binary variable equal to 1 if there was a domestic lockdown and 0 otherwise;
 travel: binary variable equal to 1 if travel restrictions were implemented and 0 otherwise;
