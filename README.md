@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fgoccp.maryland.gov%2Fcovid19-victim-resources%2F&psig=AOvVaw0zQjv2ApnCOXNBTzXGzClA&ust=1616528339757000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCOjaicHTxO8CFQAAAAAdAAAAABAD
+![image](https://user-images.githubusercontent.com/56414953/112048508-deeba200-8b24-11eb-8cfa-9b61476acc04.png)
 # Covid-19 Final Project Introduction:
 In this report, SARS-CoV-2 symptoms, lifecycle, testing, and vaccines are explaind followed by charts covering the pandemic test, case, recovery, death, and vaccination totals. This report uses a logit model to determine the log odds relationship between government covid-19 preventative regulations and cases of SARS-CoV-2. Then, this report uses time-series modeling to determine the progression of the pandemic.
 # Covid-19 General Information:
