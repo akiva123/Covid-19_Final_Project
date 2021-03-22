@@ -15,25 +15,25 @@ The Governments' responses to COVID19 are the measures implemented by government
 The variables are :
 
 - cases: binary variable equal to 1 if there were cases of SARS-CoV-2 and 0 otherwise;
-school: binary variable equal to 1 if schools were closed and 0 otherwise;
-domestic: binary variable equal to 1 if there was a domestic lockdown and 0 otherwise;
-travel: binary variable equal to 1 if travel restrictions were implemented and 0 otherwise;
-travel_dom: binary variable equal to 1 if travel restrictions within the country (e.g. inter-region travels) were implemented and 0 otherwise;
-curf: binary variable equal to 1 if a curfew was implemented and 0 otherwise;
-mass: binary variable equal to 1 if bans on mass gatherings were implemented and 0 otherwise;
-elect: binary variable equal to 1 if some elections were postponed and 0 otherwise;
-sport: binary variable equal to1 if bans on sporting and large events were implemented and 0 otherwise;
-rest: binary variable equal to1 if restaurants were closed and 0 otherwise;
-testing: binary variable equal to1 if there was a public testing policy and 0 otherwise;
-surveillance: binary variable equal to1 if mobile app or bracelet surveillance was implemented and 0 otherwise;
-masks binary variable equal to1 if the obligationsto wear masks in public spaces was implemented and 0 otherwise;
-state: binary variable equal to1 if the state of emergency is declared and 0 otherwise;
-cash: binary variable equal to1 if cash transfers are implemented and 0 otherwise;
-wage: binary variable equal to1 if wage support is implemented and 0 otherwise;
-credit: binary variable equal to1 if credit schemes are implemented and 0 otherwise;
-taxc: binary variable equal to1 if tax credits are implemented and 0 otherwise;
-taxd: binary variable equal to1 if tax delays are implemented and 0 otherwise;
-export: binary variable equal to1 if supports to importers or exporters are implemented and 0 otherwise;
-rate: binary variable equal to1 if the Central Bank lowered the interest rates and 0 otherwise;
-Rigidity_Public_Health: average of the thirteen coded public health measures. Public health measures are valued 0.5 if they are localized or partial and 1 if they are national or strict. 0 indicates no measures. The index is computed if there are at least 10 out of the 13 measures coded;
-Economic_Measures: average of the coded economic measures. The index is computed if there is information on at least 5 of the 7 economic measures.
+- school: binary variable equal to 1 if schools were closed and 0 otherwise;
+- domestic: binary variable equal to 1 if there was a domestic lockdown and 0 otherwise;
+- travel: binary variable equal to 1 if travel restrictions were implemented and 0 otherwise;
+- travel_dom: binary variable equal to 1 if travel restrictions within the country (e.g. inter-region travels) were implemented and 0 otherwise;
+- curf: binary variable equal to 1 if a curfew was implemented and 0 otherwise;
+- mass: binary variable equal to 1 if bans on mass gatherings were implemented and 0 otherwise;
+- elect: binary variable equal to 1 if some elections were postponed and 0 otherwise;
+- sport: binary variable equal to1 if bans on sporting and large events were implemented and 0 otherwise;
+- rest: binary variable equal to1 if restaurants were closed and 0 otherwise;
+- testing: binary variable equal to1 if there was a public testing policy and 0 otherwise;
+- surveillance: binary variable equal to1 if mobile app or bracelet surveillance was implemented and 0 otherwise;
+- masks binary variable equal to1 if the obligationsto wear masks in public spaces was implemented and 0 otherwise;
+- state: binary variable equal to1 if the state of emergency is declared and 0 otherwise;
+- cash: binary variable equal to1 if cash transfers are implemented and 0 otherwise;
+- wage: binary variable equal to1 if wage support is implemented and 0 otherwise;
+- credit: binary variable equal to1 if credit schemes are implemented and 0 otherwise;
+- taxc: binary variable equal to1 if tax credits are implemented and 0 otherwise;
+- taxd: binary variable equal to1 if tax delays are implemented and 0 otherwise;
+- export: binary variable equal to1 if supports to importers or exporters are implemented and 0 otherwise;
+- rate: binary variable equal to1 if the Central Bank lowered the interest rates and 0 otherwise;
+# Conclusion
+The time-series models suggest that vaccinations will trend upward by 245% and cases of the virus will trend downward by 54%. The logit model suggests that the government regulations of school closures, travel restrictions, state of emergency declarations, wage support, tax credits, and interest rate lowering decreased the log odds of the presence of virus cases. Government regulations such as disallowing public gatherings and mandating wearing masks did not decrease the log odds of the presence of virus cases. The virus travels in sneezed or coughed droplets of mucus or saliva, is airborne for a few moments, and then lands on a surface. Instead of wearing masks and preventing gatherings, carrying a handkerchiefs in which people could sneeze or cough and sanitizing areas were people gather would be sufficient in preventing the spread of SARS-CoV-2.
