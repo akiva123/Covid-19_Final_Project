@@ -13,6 +13,7 @@ ACE2 modulates the activity of the angiotensin II protein, which increases blood
 A patient can be tested for SARS-CoV-2 with the sequence-specific molecular nucleic acid assay, or the antigen-specific immunoassay. For a molecular-assay, a nasal or saliva sample is collected from upper respiratory fluid and then Real-time RT-PCR is conducted to quantify sequences within the RNA samples. Reverse transcriptase converts extracted RNA into cDNA that is used as a template for DNA polymerase to complete the strand of dsDNA and then RT-PCR amplifies the genetic regions and fluorescent probes bind to the regions for identification. For an immuno-assay, antibodies are put on a membrane and complexed with a potentialy virulent sample of which any antigen will be trapped that results in the membrane changing color. A SARS-CoV-2 recovered patient can be tested for whether the patient has developed anibodies against the virus by checking a blood sample for the antibodies. The following are diagrams of a molecular assay
 
 ![image](https://user-images.githubusercontent.com/56414953/112049170-a6989380-8b25-11eb-8d39-89612a07e920.png)
+
 and an immuno assay.
 ![image](https://user-images.githubusercontent.com/56414953/112049200-aef0ce80-8b25-11eb-8301-43ff58f546ce.png)
 # Vaccines for SARS-CoV-2:
