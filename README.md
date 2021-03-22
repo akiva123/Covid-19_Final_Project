@@ -10,3 +10,30 @@ A patient can be tested for SARS-CoV-2 with the sequence-specific molecular nucl
 # Vaccines for SARS-CoV-2:
 Vaccines have been developed to combat SARS-CoV-2. The Pfizer/BioNTech vaccine (BNT162b2) and The ModernaTX, Inc vaccine (mRNA-1273) are mRNA vaccines. mRNA vaccines deliver lab designed viral mRNA made by coding both the 5’-untranslated region (UTR) and the 3’-UTR into cells where it is translated into the encoded antigen to which an immune recognition by white blood cells, immunogenicity, results. The AstraZeneca in collaboration with the University of Oxford vaccine (AZD1222) is an adenovirus vaccine. Adenovirus vaccines are first gene sub-cloned into an intermediary vector, transfered to an adenovirus recombinant genome vector, transfected into packaging cells, amplified into a culture stock, and then titrated to determine the concentration of active adenoviruses in the stock. The adenoviruse is then delivered to cells where immunogenicity results. The following is a diagram of Virus vector DNA and mRNA vaccine immune response production.
 Vaccines have been developed to combat SARS-CoV-2. The Pfizer/BioNTech vaccine (BNT162b2) and The ModernaTX, Inc vaccine (mRNA-1273) are mRNA vaccines. mRNA vaccines deliver lab designed viral mRNA made by coding both the 5’-untranslated region (UTR) and the 3’-UTR into cells where it is translated into the encoded antigen to which an immune recognition by white blood cells, immunogenicity, results. The AstraZeneca in collaboration with the University of Oxford vaccine (AZD1222) is an adenovirus vaccine. Adenovirus vaccines are first gene sub-cloned into an intermediary vector, transfered to an adenovirus recombinant genome vector, transfected into packaging cells, amplified into a culture stock, and then titrated to determine the concentration of active adenoviruses in the stock. The adenoviruse is then delivered to cells where immunogenicity results. The following is a diagram of Virus vector DNA and mRNA vaccine immune response production.
+# Government Regulation Features
+The Governments' responses to COVID19 are the measures implemented by governments worldwide in response to the Coronavirus pandemic. It particularly separates the information in two categories: economic measures and public health measures.
+The variables are :
+
+cases: binary variable equal to 1 if there were cases of SARS-CoV-2 and 0 otherwise;;
+school: binary variable equal to 1 if schools were closed and 0 otherwise;
+domestic: binary variable equal to 1 if there was a domestic lockdown and 0 otherwise;
+travel: binary variable equal to 1 if travel restrictions were implemented and 0 otherwise;
+travel_dom: binary variable equal to 1 if travel restrictions within the country (e.g. inter-region travels) were implemented and 0 otherwise;
+curf: binary variable equal to 1 if a curfew was implemented and 0 otherwise;
+mass: binary variable equal to 1 if bans on mass gatherings were implemented and 0 otherwise;
+elect: binary variable equal to 1 if some elections were postponed and 0 otherwise;
+sport: binary variable equal to1 if bans on sporting and large events were implemented and 0 otherwise;
+rest: binary variable equal to1 if restaurants were closed and 0 otherwise;
+testing: binary variable equal to1 if there was a public testing policy and 0 otherwise;
+surveillance: binary variable equal to1 if mobile app or bracelet surveillance was implemented and 0 otherwise;
+masks binary variable equal to1 if the obligationsto wear masks in public spaces was implemented and 0 otherwise;
+state: binary variable equal to1 if the state of emergency is declared and 0 otherwise;
+cash: binary variable equal to1 if cash transfers are implemented and 0 otherwise;
+wage: binary variable equal to1 if wage support is implemented and 0 otherwise;
+credit: binary variable equal to1 if credit schemes are implemented and 0 otherwise;
+taxc: binary variable equal to1 if tax credits are implemented and 0 otherwise;
+taxd: binary variable equal to1 if tax delays are implemented and 0 otherwise;
+export: binary variable equal to1 if supports to importers or exporters are implemented and 0 otherwise;
+rate: binary variable equal to1 if the Central Bank lowered the interest rates and 0 otherwise;
+Rigidity_Public_Health: average of the thirteen coded public health measures. Public health measures are valued 0.5 if they are localized or partial and 1 if they are national or strict. 0 indicates no measures. The index is computed if there are at least 10 out of the 13 measures coded;
+Economic_Measures: average of the coded economic measures. The index is computed if there is information on at least 5 of the 7 economic measures.
