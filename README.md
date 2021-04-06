@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/56414953/112048508-deeba200-8b24-11eb-8cfa-9b61476acc04.png)
 # Business Case
-In this report 3 topics about covid-19 are covered:
+In this report, three topics about covid-19 are covered:
   - The covid-19 pandemic test, case, recovery, death, and vaccination totals are covered followed by time-series modeling to determine the progression of the pandemic.  
   - A logit model is used to determine the log odds relationship between government covid-19 regulations and cases of SARS-CoV-2.  
   - SARS-CoV-2 symptoms, lifecycle, testing, and vaccines are explaind followed by a recurrent neural network that is used to predict the next nucleotide in the sequence of a SARS-CoV-2 genome.  
