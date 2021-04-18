@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/56414953/112048508-deeba200-8b24-11eb-8cfa-9b61476acc04.png)
 # Business Case
-In this report, three topics regarding covid-19 are covered:
+In this report, the following topics regarding covid-19 are covered:
   - The covid-19 pandemic test, case, recovery, death, and vaccination totals are covered followed by a polynomial regression with lasso regularization model to determine the relationship between cases of and vaccination for the virus, and SARIMA model to determine the progression of cases and vaccinations.  
   - A logit model is used to determine the log odds relationship between government covid-19 regulations and the presence of cases of SARS-CoV-2, and an XGBoost model is used to determine the feature importance of government covid-19 regulations to cases of SARS-CoV-2, which are seperated into three calsses: large, medium, and small amount of cases.  
   - SARS-CoV-2 symptoms, lifecycle, genetics, testing, and vaccines are explained followed by a CNN model that is used to determine whether SARS-CoV-2 is present in CT-scans, and a bidirectional RNN model that is used to predict the next nucleotide in the sequence of a SARS-CoV-2 genome.  
