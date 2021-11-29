@@ -11,7 +11,7 @@ A new type of coronavirus, SARS-CoV-2, started in December 2019 and has caused t
 Built a SQL database that holds two tables of covid-19 totals for countries and the United States, and conducted queries.  
 # Models
 - Machine Learning:
-  - Regression:  
+  - Regression:  Covid-19_Totals_and_Forecast.pdf
     - The polynomial regression model with lasso regularization suggests that cases of and vaccinations for the virus are inversely related, and has a train r-squared of 71, and a train mse of 3, a cross validated mse of 4, a test r-squared of 100, and a test mse of .7.  
     - The SARIMA models suggest that, over the next month, vaccinations will trend upward by 83.3% and cases of the virus will trend upward by 12.8%. 
   - Classification: 
